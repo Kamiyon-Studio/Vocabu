@@ -1,0 +1,332 @@
+[
+  {
+    "word": "Dog",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/dog",
+    "description": "A friendly pet with four legs, a tail, and barks.",
+    "example_usage": [
+      "The dog barks.",
+      "I love my pet dog."
+    ]
+  },
+  {
+    "word": "Cat",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/cat",
+    "description": "A fluffy animal that loves to play and says “meow.”",
+    "example_usage": [
+      "The cat is sleeping.",
+      "A cat is on the mat."
+    ]
+  },
+  {
+    "word": "Sun",
+    "difficulty": "easy",
+    "category": "nature",
+    "image_path": "WordImg/Noun/sun",
+    "description": "The big, bright star that warms our planet.",
+    "example_usage": [
+      "The sun is hot.",
+      "Look at the bright sun!"
+    ]
+  },
+  {
+    "word": "Ball",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/ball",
+    "description": "A round toy for throwing, kicking, or bouncing.",
+    "example_usage": [
+      "Let's play with the ball.",
+      "The ball is red."
+    ]
+  },
+  {
+    "word": "Book",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/book",
+    "description": "A collection of stories and pictures to read.",
+    "example_usage": [
+      "I like to read a book.",
+      "The book has many pages."
+    ]
+  },
+  {
+    "word": "Car",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/car",
+    "description": "A machine with wheels that takes people to places.",
+    "example_usage": [
+      "My dad drives a car.",
+      "The car is fast."
+    ]
+  },
+  {
+    "word": "Tree",
+    "difficulty": "easy",
+    "category": "nature",
+    "image_path": "WordImg/Noun/tree",
+    "description": "A tall plant with a trunk, branches, and leaves.",
+    "example_usage": [
+      "A bird is in the tree.",
+      "The tree has green leaves."
+    ]
+  },
+  {
+    "word": "House",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/house",
+    "description": "A building where people live with their families.",
+    "example_usage": [
+      "I live in a house.",
+      "My house has a red door."
+    ]
+  },
+  {
+    "word": "Flower",
+    "difficulty": "easy",
+    "category": "nature",
+    "image_path": "WordImg/Noun/flower",
+    "description": "The colorful, pretty part of a plant that smells nice.",
+    "example_usage": [
+      "The flower smells good.",
+      "I picked a flower for my mom."
+    ]
+  },
+  {
+    "word": "Water",
+    "difficulty": "easy",
+    "category": "nature",
+    "image_path": "WordImg/Noun/water",
+    "description": "A clear liquid we drink to stay healthy and play in.",
+    "example_usage": [
+      "I am thirsty, I need some water.",
+      "The fish swims in the water."
+    ]
+  },
+  {
+    "word": "Apple",
+    "difficulty": "easy",
+    "category": "food",
+    "image_path": "WordImg/Noun/apple",
+    "description": "A sweet, round fruit that can be red or green.",
+    "example_usage": [
+      "I ate an apple.",
+      "An apple a day keeps the doctor away."
+    ]
+  },
+  {
+    "word": "Baby",
+    "difficulty": "easy",
+    "category": "people",
+    "image_path": "WordImg/Noun/baby",
+    "description": "A very young child who needs lots of love and care.",
+    "example_usage": [
+      "The baby is crying.",
+      "My baby sister is cute."
+    ]
+  },
+  {
+    "word": "Chair",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/chair",
+    "description": "A piece of furniture with four legs for one person to sit.",
+    "example_usage": [
+      "Sit on the chair.",
+      "The chair is made of wood."
+    ]
+  },
+  {
+    "word": "Duck",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/duck",
+    "description": "A bird with a flat beak and webbed feet that swims.",
+    "example_usage": [
+      "The duck is swimming in the pond.",
+      "A duck says 'quack'Kahlo."
+    ]
+  },
+  {
+    "word": "Egg",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/egg",
+    "description": "A small, oval food that comes from chickens.",
+    "example_usage": [
+      "I had an egg for breakfast.",
+      "The bird laid an egg."
+    ]
+  },
+  {
+    "word": "Fish",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/fish",
+    "description": "An animal with fins and gills that lives in water.",
+    "example_usage": [
+      "The fish is swimming in the tank.",
+      "I caught a fish."
+    ]
+  },
+  {
+    "word": "Goat",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/goat",
+    "description": "A farm animal with horns, a beard, and eats anything.",
+    "example_usage": [
+      "The goat is eating grass.",
+      "A baby goat is called a kid."
+    ]
+  },
+  {
+    "word": "Hat",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/hat",
+    "description": "A covering for your head to keep you warm or cool.",
+    "example_usage": [
+      "I am wearing a hat.",
+      "My hat is blue."
+    ]
+  },
+  {
+    "word": "Ice",
+    "difficulty": "easy",
+    "category": "food",
+    "image_path": "WordImg/Noun/ice",
+    "description": "Frozen water that is very cold and melts in the sun.",
+    "example_usage": [
+      "The drink has ice in it.",
+      "Ice is cold."
+    ]
+  },
+  {
+    "word": "Juice",
+    "difficulty": "easy",
+    "category": "food",
+    "image_path": "WordImg/Noun/juice",
+    "description": "A sweet drink made from squeezing fruits like apples.",
+    "example_usage": [
+      "I like to drink apple juice.",
+      "The juice is sweet."
+    ]
+  },
+  {
+    "word": "Kite",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/kite",
+    "description": "A toy with a string that you fly in the wind.",
+    "example_usage": [
+      "I like to fly a kite.",
+      "The kite is flying high."
+    ]
+  },
+  {
+    "word": "Lion",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/lion",
+    "description": "A big, wild cat with a loud roar and a fluffy mane.",
+    "example_usage": [
+      "The lion is the king of the jungle.",
+      "A lion roars loudly."
+    ]
+  },
+  {
+    "word": "Milk",
+    "difficulty": "easy",
+    "category": "food",
+    "image_path": "WordImg/Noun/milk",
+    "description": "A healthy white drink from cows that makes bones strong.",
+    "example_usage": [
+      "I drink milk every day.",
+      "Cows give us milk."
+    ]
+  },
+  {
+    "word": "Nest",
+    "difficulty": "easy",
+    "category": "object",
+    "image_path": "WordImg/Noun/nest",
+    "description": "A bird’s home made of twigs for laying eggs.",
+    "example_usage": [
+      "The bird is in its nest.",
+      "The nest has three eggs."
+    ]
+  },
+  {
+    "word": "Orange",
+    "difficulty": "easy",
+    "category": "food",
+    "image_path": "WordImg/Noun/orange",
+    "description": "A round, orange-colored fruit that is juicy and sweet.",
+    "example_usage": [
+      "I ate an orange.",
+      "Orange juice is made from oranges."
+    ]
+  },
+  {
+    "word": "Pig",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/pig",
+    "description": "A pink farm animal with a curly tail and a flat snout.",
+    "example_usage": [
+      "The pig is pink.",
+      "A pig says 'oink'."
+    ]
+  },
+  {
+    "word": "Queen",
+    "difficulty": "easy",
+    "category": "people",
+    "image_path": "WordImg/Noun/queen",
+    "description": "A royal lady who wears a crown and rules a country.",
+    "example_usage": [
+      "The queen wears a crown.",
+      "The queen lives in a castle."
+    ]
+  },
+  {
+    "word": "Rabbit",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/rabbit",
+    "description": "A small, furry animal with long ears and a fluffy tail.",
+    "example_usage": [
+      "The rabbit is eating a carrot.",
+      "A rabbit has long ears."
+    ]
+  },
+  {
+    "word": "Star",
+    "difficulty": "easy",
+    "category": "nature",
+    "image_path": "WordImg/Noun/star",
+    "description": "A twinkling light in the night sky, far, far away.",
+    "example_usage": [
+      "I see a star in the sky.",
+      "Twinkle, twinkle, little star."
+    ]
+  },
+  {
+    "word": "Tiger",
+    "difficulty": "easy",
+    "category": "animal",
+    "image_path": "WordImg/Noun/tiger",
+    "description": "A big, wild cat with orange fur and black stripes.",
+    "example_usage": [
+      "The tiger is a wild animal.",
+      "A tiger has black stripes."
+    ]
+  }
+]

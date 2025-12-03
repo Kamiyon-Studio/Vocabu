@@ -1,0 +1,321 @@
+[
+  {
+    "word": "Happy",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/happy",
+    "description": "Feeling good and smiling a lot.",
+    "example_usage": [
+      "I am happy today.",
+      "She has a happy face."
+    ]
+  },
+  {
+    "word": "Big",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/big",
+    "description": "Very large in size, like an elephant.",
+    "example_usage": [
+      "An elephant is big.",
+      "That is a big balloon."
+    ]
+  },
+  {
+    "word": "Small",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/small",
+    "description": "Very little in size, like a tiny mouse.",
+    "example_usage": [
+      "A mouse is small.",
+      "This is a small toy."
+    ]
+  },
+  {
+    "word": "Red",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/red",
+    "description": "The color of a bright strawberry or a fire truck.",
+    "example_usage": [
+      "The apple is red.",
+      "My favorite color is red."
+    ]
+  },
+  {
+    "word": "Blue",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/blue",
+    "description": "The color of the sky above or the deep ocean.",
+    "example_usage": [
+      "The sky is blue.",
+      "He has a blue car."
+    ]
+  },
+  {
+    "word": "Green",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/green",
+    "description": "The color of fresh grass or growing leaves.",
+    "example_usage": [
+      "The grass is green.",
+      "She is wearing a green shirt."
+    ]
+  },
+  {
+    "word": "Yellow",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/yellow",
+    "description": "The color of the bright sun or a yummy banana.",
+    "example_usage": [
+      "The sun is yellow.",
+      "A banana is yellow."
+    ]
+  },
+  {
+    "word": "Fast",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/fast",
+    "description": "Moving very quickly, like a speedy cheetah.",
+    "example_usage": [
+      "A cheetah is fast.",
+      "He is a fast runner."
+    ]
+  },
+  {
+    "word": "Slow",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/slow",
+    "description": "Moving very gently, like a sleepy turtle.",
+    "example_usage": [
+      "A turtle is slow.",
+      "The car is slow."
+    ]
+  },
+  {
+    "word": "Loud",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/loud",
+    "description": "Making a lot of sound, not quiet at all.",
+    "example_usage": [
+      "The music is loud.",
+      "He has a loud voice."
+    ]
+  },
+  {
+    "word": "Good",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/good",
+    "description": "Very nice or of high quality, a kind friend.",
+    "example_usage": [
+      "This is a good book.",
+      "She is a good friend."
+    ]
+  },
+  {
+    "word": "Bad",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/bad",
+    "description": "Not good or of low quality, not nice.",
+    "example_usage": [
+      "That was a bad movie.",
+      "He is a bad influence."
+    ]
+  },
+  {
+    "word": "Hot",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/hot",
+    "description": "Having a high temperature, like warm soup.",
+    "example_usage": [
+      "The soup is hot.",
+      "It is a hot day."
+    ]
+  },
+  {
+    "word": "Cold",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/cold",
+    "description": "Having a low temperature, like ice cream.",
+    "example_usage": [
+      "The weather is cold.",
+      "I have a cold drink."
+    ]
+  },
+  {
+    "word": "Old",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/old",
+    "description": "Having been around for a long, long time.",
+    "example_usage": [
+      "This is an old house.",
+      "My grandfather is old."
+    ]
+  },
+  {
+    "word": "Sunny",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/sunny",
+    "description": "Full of bright sunshine, a happy day.",
+    "example_usage": [
+      "It is a sunny day.",
+      "I like sunny weather."
+    ]
+  },
+  {
+    "word": "Rainy",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/rainy",
+    "description": "Having lots of rain falling from the sky.",
+    "example_usage": [
+      "It is a rainy day.",
+      "I don't like rainy weather."
+    ]
+  },
+  {
+    "word": "Funny",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/funny",
+    "description": "Making you laugh and feel happy inside.",
+    "example_usage": [
+      "He told a funny joke.",
+      "The movie was funny."
+    ]
+  },
+  {
+    "word": "Sad",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/sad",
+    "description": "Feeling unhappy or showing sorrow.",
+    "example_usage": [
+      "She is sad because her toy is broken.",
+      "It is a sad story."
+    ]
+  },
+  {
+    "word": "Pretty",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/pretty",
+    "description": "Looking very nice and attractive.",
+    "example_usage": [
+      "The flower is pretty.",
+      "She is a pretty girl."
+    ]
+  },
+  {
+    "word": "Ugly",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/ugly",
+    "description": "Not looking nice or pleasant to see.",
+    "example_usage": [
+      "The monster is ugly.",
+      "That is an ugly sweater."
+    ]
+  },
+  {
+    "word": "Clean",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/clean",
+    "description": "Free from dirt, looking neat and tidy.",
+    "example_usage": [
+      "My room is clean.",
+      "I have clean hands."
+    ]
+  },
+  {
+    "word": "Dirty",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/dirty",
+    "description": "Covered in dirt or not clean at all.",
+    "example_usage": [
+      "My shoes are dirty.",
+      "He has a dirty face."
+    ]
+  },
+  {
+    "word": "Soft",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/soft",
+    "description": "Easy to touch, gentle and not hard.",
+    "example_usage": [
+      "The pillow is soft.",
+      "A kitten's fur is soft."
+    ]
+  },
+  {
+    "word": "Hard",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/hard",
+    "description": "Solid and firm, not easy to break.",
+    "example_usage": [
+      "A rock is hard.",
+      "The floor is hard."
+    ]
+  },
+  {
+    "word": "Quiet",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/quiet",
+    "description": "Making very little or no sound.",
+    "example_usage": [
+      "The library is quiet.",
+      "Please be quiet."
+    ]
+  },
+  {
+    "word": "Noisy",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/noisy",
+    "description": "Making a lot of sound, not quiet.",
+    "example_usage": [
+      "The playground is noisy.",
+      "The dog is noisy."
+    ]
+  },
+  {
+    "word": "Sweet",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/sweet",
+    "description": "Tasting like sugar or honey, very yummy.",
+    "example_usage": [
+      "Candy is sweet.",
+      "The cake is sweet."
+    ]
+  },
+  {
+    "word": "Sour",
+    "difficulty": "easy",
+    "category": "other",
+    "image_path": "WordImg/Adjectives/sour",
+    "description": "Tasting like a lemon or vinegar, tart.",
+    "example_usage": [
+      "Lemons are sour.",
+      "The candy is sour."
+    ]
+  }
+]

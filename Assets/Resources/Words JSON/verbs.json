@@ -1,0 +1,332 @@
+[
+  {
+    "word": "Jump",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/jump",
+    "description": "Pushing yourself up into the air using your legs.",
+    "example_usage": [
+      "I can jump high.",
+      "The frog can jump."
+    ]
+  },
+  {
+    "word": "Run",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/run",
+    "description": "Moving your legs very fast, quicker than walking.",
+    "example_usage": [
+      "I can run to the tree.",
+      "The dog loves to run."
+    ]
+  },
+  {
+    "word": "Sing",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/sing",
+    "description": "Making music with your voice, like birds do.",
+    "example_usage": [
+      "Let's sing a song.",
+      "Birds sing in the morning."
+    ]
+  },
+  {
+    "word": "Eat",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/eat",
+    "description": "Putting food in your mouth to chew and swallow.",
+    "example_usage": [
+      "I want to eat an apple.",
+      "What do you like to eat?"
+    ]
+  },
+  {
+    "word": "Play",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/play",
+    "description": "Having fun and doing joyful activities.",
+    "example_usage": [
+      "We can play outside.",
+      "Do you want to play with me?"
+    ]
+  },
+  {
+    "word": "Drink",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/drink",
+    "description": "Taking liquid into your mouth and swallowing it.",
+    "example_usage": [
+      "I like to drink milk.",
+      "Don't forget to drink water."
+    ]
+  },
+  {
+    "word": "Sleep",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/sleep",
+    "description": "Resting your body and mind with your eyes closed.",
+    "example_usage": [
+      "I sleep in my bed.",
+      "The baby is sleeping."
+    ]
+  },
+  {
+    "word": "Read",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/read",
+    "description": "Looking at words to understand stories or facts.",
+    "example_usage": [
+      "I can read a book.",
+      "My mom reads me a story every night."
+    ]
+  },
+  {
+    "word": "Write",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/write",
+    "description": "Making letters or words on paper with a pen.",
+    "example_usage": [
+      "I can write my name.",
+      "Please write a letter to your grandma."
+    ]
+  },
+  {
+    "word": "Draw",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/draw",
+    "description": "Making pictures with a pen, pencil, or crayon.",
+    "example_usage": [
+      "I like to draw pictures.",
+      "Can you draw a house?"
+    ]
+  },
+  {
+    "word": "Clap",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/clap",
+    "description": "Hitting your hands together to show you like something.",
+    "example_usage": [
+      "Let's clap for the winner.",
+      "Clap your hands."
+    ]
+  },
+  {
+    "word": "Dance",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/dance",
+    "description": "Moving your body to music in a fun way.",
+    "example_usage": [
+      "I like to dance to the music.",
+      "She can dance very well."
+    ]
+  },
+  {
+    "word": "Fly",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/fly",
+    "description": "Moving through the air with wings, like a bird.",
+    "example_usage": [
+      "Birds can fly.",
+      "I wish I could fly like a superhero."
+    ]
+  },
+  {
+    "word": "Give",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/give",
+    "description": "Sharing something with someone else freely.",
+    "example_usage": [
+      "Please give me the book.",
+      "I will give you a present."
+    ]
+  },
+  {
+    "word": "Hug",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/hug",
+    "description": "Squeezing someone tightly to show love.",
+    "example_usage": [
+      "I will give you a hug.",
+      "My mom gives the best hugs."
+    ]
+  },
+  {
+    "word": "Laugh",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/laugh",
+    "description": "Making happy sounds when something is funny.",
+    "example_usage": [
+      "The joke made me laugh.",
+      "I love to hear you laugh."
+    ]
+  },
+  {
+    "word": "Open",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/open",
+    "description": "Moving something to create a space or view.",
+    "example_usage": [
+      "Please open the door.",
+      "I can't open the jar."
+    ]
+  },
+  {
+    "word": "Sit",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/sit",
+    "description": "Resting your body on your bottom, not standing.",
+    "example_usage": [
+      "Please sit down.",
+      "The dog knows how to sit."
+    ]
+  },
+  {
+    "word": "Stand",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/stand",
+    "description": "Being upright on your feet, not sitting.",
+    "example_usage": [
+      "Please stand up.",
+      "Don't just stand there, do something."
+    ]
+  },
+  {
+    "word": "Swim",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/swim",
+    "description": "Moving your body through water, like a fish.",
+    "example_usage": [
+      "I like to swim in the pool.",
+      "Fish can swim."
+    ]
+  },
+  {
+    "word": "Walk",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/walk",
+    "description": "Moving at a normal speed, one foot after another.",
+    "example_usage": [
+      "I like to walk in the park.",
+      "Let's walk to the store."
+    ]
+  },
+  {
+    "word": "Talk",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/talk",
+    "description": "Speaking words to communicate with others.",
+    "example_usage": [
+      "We can talk about it later.",
+      "She loves to talk on the phone."
+    ]
+  },
+  {
+    "word": "See",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/see",
+    "description": "Looking with your eyes to notice things around you.",
+    "example_usage": [
+      "I can see the bird.",
+      "Do you see what I see?"
+    ]
+  },
+  {
+    "word": "Hear",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/hear",
+    "description": "Listening with your ears to sounds.",
+    "example_usage": [
+      "I can hear the music.",
+      "Did you hear that noise?"
+    ]
+  },
+  {
+    "word": "Touch",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/touch",
+    "description": "Making contact with something using your hand.",
+    "example_usage": [
+      "Don't touch the hot stove.",
+      "I can touch my toes."
+    ]
+  },
+  {
+    "word": "Feel",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/feel",
+    "description": "Experiencing something with your senses or heart.",
+    "example_usage": [
+      "I feel happy today.",
+      "The cat's fur feels soft."
+    ]
+  },
+  {
+    "word": "Look",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/look",
+    "description": "Directing your eyes to see something specific.",
+    "example_usage": [
+      "Look at the beautiful flowers.",
+      "He looked at me and smiled."
+    ]
+  },
+  {
+    "word": "Listen",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/listen",
+    "description": "Paying attention to sounds with your ears.",
+    "example_usage": [
+      "Listen to the birds singing.",
+      "Please listen to your teacher."
+    ]
+  },
+  {
+    "word": "Help",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/help",
+    "description": "Making it easier for someone to do something.",
+    "example_usage": [
+      "Can you help me?",
+      "I like to help my friends."
+    ]
+  },
+  {
+    "word": "Ask",
+    "difficulty": "easy",
+    "category": "action",
+    "image_path": "WordImg/Verb/ask",
+    "description": "Saying something to get an answer or information.",
+    "example_usage": [
+      "I will ask a question.",
+      "Don't be afraid to ask for help."
+    ]
+  }
+]
